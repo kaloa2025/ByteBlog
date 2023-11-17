@@ -3,7 +3,7 @@ import React from 'react'
 export default function Navbar() {
   return (
     <div>
-        <table>
+        <table className='Nav_tab'>
             <tr>
                 <td>Logo</td>
                 <td></td>
