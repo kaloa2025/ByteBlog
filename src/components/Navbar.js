@@ -1,23 +1,10 @@
 import React from 'react'
+import './Navbar.css'
 
 export default function Navbar() {
   return (
     <div>
-        <table className='Nav_tab'>
-            <tr>
-                <td>Logo</td>
-                <td></td>
-                <td>
-                    <table>
-                        <tr>
-                            <td>search</td>
-                            <td>profile</td>
-                            <td>trending</td>
-                        </tr>
-                    </table>
-                </td>
-            </tr>
-        </table>
+        <li>hi</li>
     </div>
   )
 }
