@@ -3,8 +3,12 @@ import './Navbar.css'
 
 export default function Navbar() {
   return (
-    <div>
-        <li>hi</li>
+    <div class="navMenu">
+      <ul>
+        <li>Home</li>
+        <li>Page</li>
+        <li>Pricing</li>
+      </ul>
     </div>
   )
 }
